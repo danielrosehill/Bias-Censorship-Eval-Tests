@@ -8,17 +8,19 @@ The first is the extent to which the selection of training data, even when that 
 
 I'm interested particularly in the question of the extent to which the general American-centric nature of the English- speaking internet skews models towards American-centric worldviews and in particular towards political leanings popular among specific demographics who may be overrepresented in the source material that makes its way into scraped web material gathered and aggregated in crawls.
 
-Secondly, I'm interested in exploring the question of how models created in non-Western contexts and operating under degrees of censorship respond to specific prompts challenging the worldview of those they are censored by.
+Secondly, I'm interested in exploring the question of how models created in non-Western contexts and operating under degrees of censorship (such as that imposed by a state) respond to specific prompts challenging the worldview of those they are censored by.
 
-Another question that arouses my curiosity, especially with the advent of some of the excellent LLMs developed in Asia lately (whether it would provide any useful information is another question!): How might a representative Western LLM (like, Meta) "interact" with an instructional model developed in the East?
+Another question that arouses my curiosity, especially with the advent of some of the excellent LLMs developed in Asia lately (*whether it would provide any useful information is another question!*): How might a representative Western LLM (like, Meta) "interact" with an instructional model developed in the East?
 
-Given the opportunity to "converse" with one another, would they come to regards each other as biased? And how might subtle but important differences in the manner in which these different models approach solving everyday problems be evaluated In a benchmarking framework which doesn't focus simply on pure efficacy, ie solving, mathematical or computational problems? 
+Given the opportunity to "converse" with one another, would they come to regards each other as biased? How might subtle but important differences in the manner in which these different models approach solving everyday problems be evaluated In a benchmarking framework which doesn't focus simply on pure efficacy, ie solving, mathematical or computational problems? 
 
-Finally, a question that I think would be fascinating to explore: how Western and Eastern large language models approach the world differently through inheriting the wider cultural lens of the cultures from which they emerge. I am interested in the idea that developing a rounded understanding of this question could inform practical decision-making in the form of choosing the optimal instructional model for specific use cases.
+Finally, a question that I think would be fascinating to explore: How do Western and Eastern large language models approach the world differently through inheriting the wider cultural lens of the cultures from which they emerge? I am interested in the idea that developing a rounded understanding of this question could inform practical decision-making in the form of choosing the optimal instructional model for specific use cases. I believed that this could be widely advantageous, broadening the tapestry of LLMs available to us to more accurately reflect the differences in human thinking that exists between cultures.
 
 ## Just Some Loose Notes On Github
 
-To emphasize: while I love reading the fascinating literature documenting experiments that have sought to answer these and similar questions, I share these little personal experiments merely as notes for the curious and out of a personal conviction in the value of open-sourcing information. 
+To emphasize: 
+
+While I love reading the fascinating literature documenting experiments that have sought to answer these and similar questions, I share these little personal experiments merely as notes for the curious and out of a personal conviction in the value of open-sourcing information. 
 
 In sharing these, I am not operating under any illusion that these can be construed as any kind of substitute for the kind of properly designed experiments needed to test these hypotheses with scientific rigor and precision. Rather, they're intended as lighterweight and less formal attempts at probing the very surface of these topics. 
 
